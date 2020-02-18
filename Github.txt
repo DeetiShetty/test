@@ -1,4 +1,1 @@
-A line of text to test version control.
-Another line has been added
-
-<img src="https://publicdomainvectors.org/photos/work-in-progress-woman_at_work-o-f-daisy.png">
+This is a site I use to test features of Github.
