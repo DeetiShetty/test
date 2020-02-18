@@ -1,1 +1,1 @@
-A line of text to test version control
+A line of text to test version control.
