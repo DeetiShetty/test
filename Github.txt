@@ -1,4 +1,4 @@
 A line of text to test version control.
 Another line has been added
 
-<img href=https://publicdomainvectors.org/photos/work-in-progress-woman_at_work-o-f-daisy.png>
+<img src="https://publicdomainvectors.org/photos/work-in-progress-woman_at_work-o-f-daisy.png">
